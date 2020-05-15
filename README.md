@@ -49,5 +49,6 @@ El diagrama de bloques completo del algoritmo se puede ver a continuación.
 ![Block Diagram](images/block_diagram.png)
 
 
-
+## Advertencia
+Ejecutar desde PC debido a que colab tiene algunas restricciones.
 __Créditos de idea: LandingAI__
